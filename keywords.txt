@@ -1,0 +1,16 @@
+# Syntax Colouring Map For AnalogKeypad
+
+# Data types (KEYWORD1)
+AnalogKeypadPlus	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+setDebounce KEYWORD2
+getKey KEYWORD2
+
+
+# Instances (KEYWORD2)
+
+
+# Constants (LITERAL1)
+ANALOGKEYPADPLUS_LIB_VERSION	LITERAL1
