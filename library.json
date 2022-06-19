@@ -1,0 +1,23 @@
+{
+  "name": "AnalogKeypadPlus",
+  "keywords": "getKey,Analog,Keypad,4x4,4x3",keyMap,
+  "description": "Arduino Library for (Robotdyn) 4x4 and 4x3 AnalogKeypadPlus.",
+  "authors":
+  [
+    {
+      "name": "Marco Affinito",
+      "email": "maraffy55@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/maraffy/AnalogKeypadPlus"
+  },
+  "version": "0.1.0",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "AnalogKeypadPlus.h"
+}
