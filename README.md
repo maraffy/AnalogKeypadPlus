@@ -24,7 +24,7 @@ If bits < 8 then the internal shift would be large causing all reads to return 0
 
 ### key input
 - **setDebounce(const uint16_t db)** set debounce time
-- **getKey()** key input from keypad when pressed
+- **getKey()** returns the ASCII code when a key is pressed, otherwise it returns 0
 
 ### polling interface
 
